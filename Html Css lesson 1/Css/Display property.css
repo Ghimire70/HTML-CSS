@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(255, 25, 25);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    visibility: hidden;
+}
+span{
+    background-color: rgb(76, 76, 236);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
